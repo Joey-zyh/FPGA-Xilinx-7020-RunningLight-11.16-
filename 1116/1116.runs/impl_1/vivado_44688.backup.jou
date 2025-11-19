@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sun Nov 16 10:38:02 2025
+# Process ID         : 44688
+# Current directory  : G:/VivadoProject/1102/1102.runs/impl_1
+# Command line       : vivado.exe -log led_flash.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source led_flash.tcl -notrace
+# Log file           : G:/VivadoProject/1102/1102.runs/impl_1/led_flash.vdi
+# Journal file       : G:/VivadoProject/1102/1102.runs/impl_1\vivado.jou
+# Running On         : JoeyBoy-MagicBook
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) Ultra 5 225H
+# CPU Frequency      : 3686 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 14
+# Host memory        : 33820 MB
+# Swap memory        : 31138 MB
+# Total Virtual      : 64958 MB
+# Available Virtual  : 25851 MB
+#-----------------------------------------------------------
+source led_flash.tcl -notrace
